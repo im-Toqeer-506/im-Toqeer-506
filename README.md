@@ -16,7 +16,7 @@
 
 ## &nbsp;🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Toqeer-506&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="260" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
 
 A passionate **Software Engineer** from Pakistan who thrives on building end-to-end web and mobile applications. I enjoy working across the entire stack — from designing intuitive front-ends with **React** and **Next.js**, to architecting robust back-ends with **Node.js** and **Express**, to deploying with **Docker** and **AWS**. I believe in writing clean, maintainable code and actively contributing to the open-source ecosystem.
 
@@ -81,6 +81,12 @@ A passionate **Software Engineer** from Pakistan who thrives on building end-to-
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=im-Toqeer-506&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=238636" />
   &nbsp;&nbsp;
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=im-Toqeer-506&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=1f6feb&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Toqeer-506&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 </div>
 
 <br/>
