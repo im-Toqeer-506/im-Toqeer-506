@@ -143,13 +143,7 @@ A passionate **Software Engineer** from Pakistan who thrives on building end-to-
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-Toqeer-506/im-Toqeer-506/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-Toqeer-506/im-Toqeer-506/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/im-Toqeer-506/im-Toqeer-506/output/github-snake.svg" width="100%" />
-</picture>
-
-
+<img alt="snake eating contributions" src="https://github.com/im-Toqeer-506/im-Toqeer-506/blob/output/github-snake-dark.svg" width="100%" />
 
 </div>
 
