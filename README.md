@@ -103,9 +103,11 @@ A passionate **Software Engineer** from Pakistan who thrives on building end-to-
 
 | &nbsp; | Project | Description | Tech |
 |:---:|:---|:---|:---|
-| 🔷 | **[Project Name](https://github.com/im-Toqeer-506/)** | Brief description of the project | `Next.js` `MongoDB` |
-| 🔷 | **[Project Name](https://github.com/im-Toqeer-506/)** | Brief description of the project | `React` `Node.js` |
-| 🔷 | **[Project Name](https://github.com/im-Toqeer-506/)** | Brief description of the project | `React Native` `Firebase` |
+| 🔷 | **[LMS](https://github.com/im-Toqeer-506/LMS)** | Brief description of the project |`JavaScript` `TypeScript` `ReactJS`  `Next.js` `NodeJs` `Express` `MongoDB` `NodeMailer` `Stripe` `Socket.io` `Jwt` `Node Cron `   |
+| 🔷 | **[ToqeerEstate](https://github.com/im-Toqeer-506/Real_Estate)** | Brief description of the project | `React` `Node.js` `Express Js` `Firebase(auth-image-upload)`,`MongoDB`,`JWT` |
+| 🔷 | **[Multivendor](https://github.com/im-Toqeer-506/Multivendor)** | Brief description of the project | `React JS` `NodeJS` `Express JS` `MongoDB` `Stripe` `Jwt` `Nodemailer` `Socket.io`  |
+
+| 🔷 | **[Expense Tracker](https://github.com/im-Toqeer-506/Expense-Tracker-App)** | Brief description of the project | `React` `React Native` `Firebase` `Clerk`  |
 
 </div>
 
