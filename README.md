@@ -103,15 +103,15 @@ A passionate **Software Engineer** from Pakistan who thrives on building end-to-
 
 | &nbsp; | Project | Description | Tech |
 |:---:|:---|:---|:---|
-| 🔷 | **[LMS](https://github.com/im-Toqeer-506/LMS)** | Brief description of the project |`JavaScript` `TypeScript` `ReactJS`  `Next.js` `NodeJs` `Express` `MongoDB` `NodeMailer` `Stripe` `Socket.io` `Jwt` `Node Cron `   |
-| 🔷 | **[ToqeerEstate](https://github.com/im-Toqeer-506/Real_Estate)** | Brief description of the project | `React` `Node.js` `Express Js` `Firebase(auth-image-upload)`,`MongoDB`,`JWT` |
-| 🔷 | **[Multivendor](https://github.com/im-Toqeer-506/Multivendor)** | Brief description of the project | `React JS` `NodeJS` `Express JS` `MongoDB` `Stripe` `Jwt` `Nodemailer` `Socket.io`  |
+| 🔷 | **[Expense Tracker](https://github.com/im-Toqeer-506/Expense-Tracker-App)** | A cross-platform mobile app for tracking expenses with statistics, wallet management, and secure authentication | `React Native` `Expo` `TypeScript` `Firebase` `Clerk` |
+| 🔷 | **[LMS](https://github.com/im-Toqeer-506/LMS)** | A full-featured Learning Management System with course management, payments, real-time notifications, and email alerts | `TypeScript` `Next.js` `React` `Node.js` `Express` `MongoDB` `Stripe` `Socket.io` `JWT` `Nodemailer` `Node Cron` |
+| 🔷 | **[ToqeerEstate](https://github.com/im-Toqeer-506/Real_Estate)** | A real estate listing platform with property search, Firebase auth, image uploads, and user profiles | `React` `Node.js` `Express` `MongoDB` `Firebase` `JWT` |
+| 🔷 | **[Multivendor](https://github.com/im-Toqeer-506/Multivendor)** | A multivendor e-commerce platform with Redux state management, real-time messaging, Stripe payments, and email notifications | `React` `Node.js` `Express` `MongoDB` `Redux Toolkit` `Stripe` `Socket.io` `Nodemailer` `JWT` |
 
-| 🔷 | **[Expense Tracker](https://github.com/im-Toqeer-506/Expense-Tracker-App)** | Brief description of the project | `React` `React Native` `Firebase` `Clerk`  |
+
 
 </div>
 
-> 📌 *Replace the above with your actual pinned repositories*
 
 ---
 
@@ -149,7 +149,7 @@ A passionate **Software Engineer** from Pakistan who thrives on building end-to-
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/im-Toqeer-506/im-Toqeer-506/output/github-snake.svg" width="100%" />
 </picture>
 
-> *🐍 Set up the [snk action](https://github.com/Platane/snk) in your profile repo to enable the snake animation*
+
 
 </div>
 
