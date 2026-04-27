@@ -10,8 +10,6 @@
 
 ### Hey there! 👋 I'm a full-stack engineer building scalable web and mobile products.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=End-to-end+product+development;JavaScript+%2B+TypeScript+%2B+React+%2B+Node;Turning+ideas+into+production+code)](https://git.io/typing-svg)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=im-Toqeer-506&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
@@ -117,13 +115,7 @@ Software Engineer from **Pakistan** who loves solving real-world problems with c
 
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=im-Toqeer-506&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=238636&area=true&area_color=1f6feb" width="100%" alt="Contribution Graph" />
-
-</div>
 
 ---
 
@@ -169,14 +161,6 @@ I'm always interested in connecting with developers, founders, and product teams
 ### Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-<img alt="snake eating contributions" src="https://github.com/im-Toqeer-506/im-Toqeer-506/blob/output/github-snake-dark.svg" width="100%" />
 
 </div>
 
