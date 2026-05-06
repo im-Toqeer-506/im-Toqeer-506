@@ -99,6 +99,13 @@ Software Engineer from **Pakistan** who loves solving real-world problems with c
 
 ---
 
+## 📝 Articles
+
+- [Building production AI agents: Why LangGraph and LangChain matter more than you think](https://dev.to/m_toqeer/-building-production-ai-agents-why-langgraph-and-langchain-matter-more-than-you-think-196o)
+- [Why big tech doesn't always use REST: The evolution of API architecture at scale](https://dev.to/m_toqeer/why-big-tech-doesnt-always-use-rest-the-evolution-of-api-architecture-at-scale-55pe)
+
+---
+
 <div align="center">
   
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=im-Toqeer-506&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=238636" alt="GitHub Stats" />
